@@ -1,19 +1,39 @@
+<div align="center">
+  <h1>Hi 👋, I'm Ibraheem</h1>
+  <h3>Full Stack Developer | React • Next.js • Flask</h3>
+  <p><i>Focusing on clean, simple, and high-performance software</i></p>
+</div>
 
-<h1 align="center">Hi 👋, I'm Ibraheem</h1>  
-<h3 align="center">A dev with focus on writing clean, simple and fast web apps</h3>  
-  
-  - 📊 I worked in Engineering for multiple production web apps built using React, Next and Flask
+---
 
-- 🌱 I’m learning **Astro** and trying to contribute to open source projects
+### 🚀 About Me
 
-- 👯 I’m looking to collaborate on web based projects built using JavaScript and TypeScript
+- 📊 **Engineering:** Contributed to multiple production-grade web apps using **React, Next.js, and Flask**.
+- 🧩 **Problem Solving:** I love getting lost in a good challenge. When I find a problem I’m passionate about, I tend to dive in completely.
+- 🤖 **AI & Tech:** I'm fascinated by how AI is changing the software landscape and love experimenting with new tools to solve problems more efficiently.
+- 👯 **Collaboration:** Open to working on projects that solve real-world problems.
+- 🌲 **Recharge:** When I’m not coding, I enjoy taking long walks in nature to clear my head and relax.
 
-- ⚡ Fun fact **I love building gaming PCs**
-  
-<h3 align="left">Connect with me:</h3>  
-<p align="left"><a href="https://linkedin.com/in/heem42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="heem42" height="30" width="40" /></a>  
-<a href="https://twitter.com/heem4212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="heem4212" height="30" width="40" /></a>
-</p>  
-  
-<h3 align="left">Languages and Tools:</h3>  
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a></p>
+### 🛠️ Languages and Tools
+
+| Category | Tools |
+| :--- | :--- |
+| **Frontend** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) |
+| **Backend** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+
+
+### 📈 GitHub Stats
+
+<p align="left">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heem42&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
+
+### 📫 Connect with me:
+
+<p align="left">
+  <a href="https://linkedin.com/in/heem42" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="heem42" />
+  </a>
+
+</p>
