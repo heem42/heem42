@@ -22,12 +22,6 @@
 | **Backend** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 
-### 📈 GitHub Stats
-
-<p align="left">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heem42&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
 
 ### 📫 Connect with me:
 
